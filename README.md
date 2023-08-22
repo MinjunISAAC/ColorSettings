@@ -1,5 +1,6 @@
 # ColorSettings
 Color Settings는 협업을 위해 만들어진 기능입니다.
+
 개발자는 다양한 Color 값을 코드 한줄로 접근할 수 있으며,
 디자이너는 Color를 간단히 수정 가능하게 구현되어있습니다.
 
